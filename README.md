@@ -1,12 +1,21 @@
 # microphone
 
-[<img src="jd_usb_c_to_xlr.jpg">]
 
-https://www.amazon.co.uk/dp/B0CV1CBP5T?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
-https://www.amazon.co.uk/dp/B08937ZMR7?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1
-https://www.amazon.co.uk/dp/B0006H92QK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_5&th=1
-https://www.amazon.co.uk/dp/B0CRR5B356?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3audio_technica_at2020.png
-jd_usb_c_to_xlr.jpg
-nuosiya.jpg
-README.md
-rode_psa1+.jpg
+<h1>Audio Technica AT2020</h1>
+<img src="audio_technica_at2020.png">
+https://www.audio-technica.com/en-gb/at2020?srsltid=AfmBOopTMbO5c9BprayDCk6gmGfHwjAkaKelUCZnNQ0m-cJIKoUMQ6Lv
+
+
+<h1>Rode PSA1+</h1>
+<img src="rode_psa1+.jpg">
+https://rode.com/en/accessories/stands-bars/psa1-plus?variant_sku=PSA1+
+
+<h1>NUOSIYA Phantom Power Supply</h1>
+<img src="nuosiya.jpg">
+https://www.amazon.co.uk/NUOSIYA-2-channel-Anti-noise-Condenser-Microphone/dp/B08937ZMR7?th=1
+
+<h1>J&D USB C to XLR</h1>
+<img src="jd_usb_c_to_xlr.jpg">
+https://www.amazon.co.uk/Microphone-Recording-Dynamic-Braided-Compatible/dp/B0CRR5B356/
+
+
